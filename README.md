@@ -85,20 +85,6 @@ AUTOMATION   ████████████████░░░░░░ 
 └──────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `// MATRIX METRICS`
-
-<div align="center">
-
-#| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otabek-Muhammadqulov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&icon_color=00c896&text_color=c8e8d8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Otabek-Muhammadqulov&theme=tokyonight&hide_border=true&background=080f0c&stroke=1a3a2a&ring=00c896&fire=00ffb3&currStreakLabel=00c896) |
-|:---:|:---:|
-
-#![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otabek-Muhammadqulov&layout=compact&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&text_color=c8e8d8)
-
-</div>
-
----
 
 ## `// CONNECT`
 
