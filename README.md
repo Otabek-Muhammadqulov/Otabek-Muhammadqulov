@@ -26,9 +26,9 @@
 
 ```
 // AGENT PROFILE :: INITIALIZED
-> Yo'nalish  : Kiberxavfsizlik va axborot himoyasi bo'yicha mutaxassis
+> Yo'nalish   : Kiberxavfsizlik va axborot himoyasi bo'yicha mutaxassis.
 > Fokus       : Tarmoq xavfsizligi · Ma'lumot shifrlash · Veb audit · Pentest
-> Holat       : Avtomatlashtirilgan himoya tizimlari ishlab chiqilmoqda
+> Holat       : Avtomatlashtirilgan himoya tizimlari ishlab chiqilmoqda.
 > Perimetr    : Himoyada. Buzilmagan.
 ```
 
