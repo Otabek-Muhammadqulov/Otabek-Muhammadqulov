@@ -1,82 +1,112 @@
 <div align="center">
 
-# 💀 SYSTEM OVERRIDE: OTABEK'S TERMINAL 💀
-_            _             _                 
-  | |          | |           | |                
-___ | |_  __ _   | |__     ___ | | __  ___  _ __
+```
+ ██████╗ ████████╗ █████╗ ██████╗ ███████╗██╗  ██╗
+██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
+██║   ██║   ██║   ███████║██████╔╝█████╗  █████╔╝ 
+██║   ██║   ██║   ██╔══██║██╔══██╗██╔══╝  ██╔═██╗ 
+╚██████╔╝   ██║   ██║  ██║██████╔╝███████╗██║  ██╗
+ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+```
 
-/ _ | |/ _ |  | ' \  / _ | |/ / / _ | '|
-| () | || (| |  | | | ||  __/|   < |  /| |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00C896&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Defensive+Operator+%2F%2F+Tashkent+Sector;Pentester+%26+Vulnerability+Assessor;Securing+the+digital+perimeter...)](https://git.io/typing-svg)
 
-_/ _|_,|  || || _||_|_\ __||_|
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Assalamu+alaykum!;Cybersecurity+Expert;Vulnerability+Assessor;Automating+the+Unknown...)](https://git.io/typing-svg)
-
-</div>
-
----
-
-### 🚀 SYSTEM STATUS: ACTIVE
-> "Securing the digital perimeter, one script at a time."
-
-* 🛡️ **Yo'nalish:** Kiberxavfsizlik va axborot himoyasi bo'yicha mutaxassis.
-* 🎯 **Fokus:** Tarmoq xavfsizligi, ma'lumotlarni shifrlash, veb-resurslar auditi, pentesting va xavfsizlik auditi.
-* 🛠️ **Hozirgi faoliyat:** Avtomatlashtirilgan xavfsizlik skanerlari va tizim himoyasi uchun maxsus browser extension'lar ishlab chiqish.
-
----
-
-### 🛡️ TECH STACK & CYBER WEAPONRY
-
-<div align="left">
-
-#### 💻 Languages & Frameworks
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🧰 OS & Penetration Testing Tools
-![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![](https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=nmap&logoColor=white)
-![](https://img.shields.io/badge/Metasploit-FF4F00?style=for-the-badge&logo=metasploit&logoColor=white)
-![](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-ACTIVE-00c896?style=flat-square&labelColor=0d1a14)
+![Location](https://img.shields.io/badge/SECTOR-TASHKENT-00c896?style=flat-square&labelColor=0d1a14)
+![Focus](https://img.shields.io/badge/MISSION-DEFENSE%20%26%20AUDIT-00c896?style=flat-square&labelColor=0d1a14)
 
 </div>
 
 ---
 
-### 📂 COMPLETED operations (Projects)
-
-* 🔍 **Automated Security Scanners** — Tarmoq va tizimlardagi zaifliklarni tezkor aniqlash uchun yozilgan avtomatlashtirilgan skriptlar kompleksi.
-* 🔐 **Encryption Engines** — Ma'lumotlar xavfsizligini ta'minlash va maxfiylikni yuqori darajaga ko'tarish uchun maxsus shifrlash dasturlari.
-* 🛡️ **CyberGuard Extension** — Zararli va fishing saytlardan himoya qiluvchi, reklama va tracking skriptlarini bloklaydigan aqlli brauzer kengaytmasi.
+```
+// AGENT PROFILE :: INITIALIZED
+> Yo'nalish  : Kiberxavfsizlik va axborot himoyasi bo'yicha mutaxassis
+> Fokus       : Tarmoq xavfsizligi · Ma'lumot shifrlash · Veb audit · Pentest
+> Holat       : Avtomatlashtirilgan himoya tizimlari ishlab chiqilmoqda
+> Perimetr    : Himoyada. Buzilmagan.
+```
 
 ---
 
-### 📊 MATRIX METRICS (GitHub Stats)
+## `// TECH ARSENAL`
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-0d1a14?style=for-the-badge&logo=python&logoColor=00c896)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1a14?style=for-the-badge&logo=javascript&logoColor=00c896)
+![Bash](https://img.shields.io/badge/Bash-0d1a14?style=for-the-badge&logo=gnu-bash&logoColor=00c896)
+![Node.js](https://img.shields.io/badge/Node.js-0d1a14?style=for-the-badge&logo=nodedotjs&logoColor=00c896)
+![Firebase](https://img.shields.io/badge/Firebase-0d1a14?style=for-the-badge&logo=firebase&logoColor=00c896)
+
+**Penetration Testing & Security Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1a14?style=for-the-badge&logo=kali-linux&logoColor=00c896)
+![Nmap](https://img.shields.io/badge/Nmap-0d1a14?style=for-the-badge&logo=nmap&logoColor=00c896)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1a14?style=for-the-badge&logo=metasploit&logoColor=00c896)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1a14?style=for-the-badge&logo=burpsuite&logoColor=00c896)
+![Docker](https://img.shields.io/badge/Docker-0d1a14?style=for-the-badge&logo=docker&logoColor=00c896)
+![Git](https://img.shields.io/badge/Git-0d1a14?style=for-the-badge&logo=git&logoColor=00c896)
+
+---
+
+## `// SKILL MATRIX`
+
+```
+PENTEST      [████████████████████░░] 92%
+NET SECURITY [██████████████████░░░░] 90%
+WEB AUDIT    [█████████████████░░░░░] 88%
+ENCRYPTION   [█████████████████░░░░░] 85%
+AUTOMATION   [████████████████░░░░░░] 80%
+```
+
+---
+
+## `// COMPLETED OPERATIONS`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [OP-01] AUTOMATED SECURITY SCANNER              [COMPLETE] │
+│  Tarmoq va tizimlardagi zaifliklarni tezkor                 │
+│  aniqlash uchun avtomatlashtirilgan skriptlar               │
+├─────────────────────────────────────────────────────────────┤
+│  [OP-02] ENCRYPTION ENGINE                       [COMPLETE] │
+│  Ma'lumotlar xavfsizligi va maxfiyligini                    │
+│  ta'minlash uchun maxsus shifrlash tizimi                   │
+├─────────────────────────────────────────────────────────────┤
+│  [OP-03] CYBERGUARD EXTENSION                    [COMPLETE] │
+│  Fishing saytlar · Reklama bloker                           │
+│  Tracking script detector — brauzer kengaytmasi            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `// MATRIX METRICS`
 
 <div align="center">
 
-| ![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true) |
-| :---: | :---: |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&icon_color=00c896&text_color=c8e8d8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=080f0c&stroke=00c896&ring=00c896&fire=00ffb3&currStreakLabel=00c896) |
+|:---:|:---:|
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&text_color=c8e8d8)
 
 </div>
 
 ---
 
-### 📟 CONNECT WITH ME
+## `// CONNECT`
+
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/M_U_Otabek)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-0d1a14?style=for-the-badge&logo=telegram&logoColor=00c896)](https://t.me/M_U_Otabek)
+
+```
+>_ Securing the digital perimeter, one script at a time. ▌
+```
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=80&section=footer" />
 </div>
