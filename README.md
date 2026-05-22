@@ -1,39 +1,35 @@
 <div align="center">
 
-```
- ██████╗ ████████╗ █████╗ ██████╗ ███████╗██╗  ██╗
-██╔═══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
-██║   ██║   ██║   ███████║██████╔╝█████╗  █████╔╝ 
-██║   ██║   ██║   ██╔══██║██╔══██╗██╔══╝  ██╔═██╗ 
-╚██████╔╝   ██║   ██║  ██║██████╔╝███████╗██║  ██╗
- ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d1a14,00c896&height=200&section=header&text=CYBER%20DEFENDER&fontSize=52&fontColor=00c896&fontAlignY=55&desc=Penetration%20Tester%20%2F%2F%20Security%20Analyst%20%2F%2F%20Tashkent&descSize=14&descAlignY=75&descColor=6abf99&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00C896&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Defensive+Operator+%2F%2F+Tashkent+Sector;Pentester+%26+Vulnerability+Assessor;Securing+the+digital+perimeter...)](https://git.io/typing-svg)
+</div>
 
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-00c896?style=flat-square&labelColor=0d1a14)
-![Location](https://img.shields.io/badge/SECTOR-TASHKENT-00c896?style=flat-square&labelColor=0d1a14)
-![Focus](https://img.shields.io/badge/MISSION-DEFENSE%20%26%20AUDIT-00c896?style=flat-square&labelColor=0d1a14)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2000&pause=600&color=00C896&center=true&vCenter=true&width=520&lines=%5BSYSTEM%5D+Initializing+agent+profile...;%5BACTIVE%5D+Defensive+operator+online;%5BMISSION%5D+Network+security+%26+web+audit;%5BTARGET%5D+Securing+the+digital+perimeter;%5BSTATUS%5D+No+breaches+detected.)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/%E2%96%B6%20STATUS-ACTIVE-00c896?style=flat-square&labelColor=0d1a14&color=0d3326)
+&nbsp;
+![](https://img.shields.io/badge/%E2%96%B6%20SECTOR-TASHKENT-00c896?style=flat-square&labelColor=0d1a14&color=0d3326)
+&nbsp;
+![](https://img.shields.io/badge/%E2%96%B6%20MISSION-DEFENSE%20%26%20AUDIT-00c896?style=flat-square&labelColor=0d1a14&color=0d3326)
 
 </div>
 
 ---
 
 ```
-### 🌐 SYSTEM STATUS: OPERATIONAL
-
-```text
-[+] HOSTNAME: Otabek-Core-Node
-[+] STATUS: SECURE
-[+] PERIMETER: UNBREACHED // PROTECTED
-$ git status --security-perimeter
-> On branch master
-> Your system is secure. No vulnerabilities detected.
-> Anti-phishing & ad-blocking extensions: ACTIVE [100%]
-### ✨ Bu o'zgarish nima beradi?
-* **Vizual Jadval:** Ma'lumotlar oddiy matn emas, balki kiber-yashil (#00FF41) rangdagi mini-nishonlar bilan strukturalangan jadval ichida turadi.
-* **Terminal Simulyatsiyasi:** [+] HOSTNAME va pastdagi $ git status qismlari profilga kirgan odamga huddi real vaqtda ishlayotgan terminal muhitini eslatadi. 
-* **Matrix Vibe:** Matn ichidagi kiber-terminlar va operator belgilari umumiy dizaynni ancha professional ko'rsatadi.
+// AGENT PROFILE :: INITIALIZED
+> Yo'nalish  : Kiberxavfsizlik va axborot himoyasi bo'yicha mutaxassis
+> Fokus       : Tarmoq xavfsizligi · Ma'lumot shifrlash · Veb audit · Pentest
+> Holat       : Avtomatlashtirilgan himoya tizimlari ishlab chiqilmoqda
+> Perimetr    : Himoyada. Buzilmagan.
 ```
 
 ---
@@ -62,11 +58,11 @@ $ git status --security-perimeter
 ## `// SKILL MATRIX`
 
 ```
-PENTEST      [████████████████████░░] 92%
-NET SECURITY [██████████████████░░░░] 90%
-WEB AUDIT    [█████████████████░░░░░] 88%
-ENCRYPTION   [█████████████████░░░░░] 85%
-AUTOMATION   [████████████████░░░░░░] 80%
+PENTEST      ████████████████████░░  92%
+NET SECURITY ██████████████████░░░░  90%
+WEB AUDIT    █████████████████░░░░░  88%
+ENCRYPTION   █████████████████░░░░░  85%
+AUTOMATION   ████████████████░░░░░░  80%
 ```
 
 ---
@@ -74,19 +70,19 @@ AUTOMATION   [████████████████░░░░░░
 ## `// COMPLETED OPERATIONS`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [OP-01] AUTOMATED SECURITY SCANNER              [COMPLETE] │
-│  Tarmoq va tizimlardagi zaifliklarni tezkor                 │
-│  aniqlash uchun avtomatlashtirilgan skriptlar               │
-├─────────────────────────────────────────────────────────────┤
-│  [OP-02] ENCRYPTION ENGINE                       [COMPLETE] │
-│  Ma'lumotlar xavfsizligi va maxfiyligini                    │
-│  ta'minlash uchun maxsus shifrlash tizimi                   │
-├─────────────────────────────────────────────────────────────┤
-│  [OP-03] CYBERGUARD EXTENSION                    [COMPLETE] │
-│  Fishing saytlar · Reklama bloker                           │
-│  Tracking script detector — brauzer kengaytmasi            │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│  [OP-01] AUTOMATED SECURITY SCANNER                  [COMPLETE]  │
+│  Tarmoq va tizimlardagi zaifliklarni tezkor aniqlash —           │
+│  avtomatlashtirilgan skriptlar kompleksi                         │
+├──────────────────────────────────────────────────────────────────┤
+│  [OP-02] ENCRYPTION ENGINE                           [COMPLETE]  │
+│  Ma'lumotlar xavfsizligi va maxfiyligini ta'minlash              │
+│  uchun maxsus shifrlash tizimi                                   │
+├──────────────────────────────────────────────────────────────────┤
+│  [OP-03] CYBERGUARD EXTENSION                        [COMPLETE]  │
+│  Fishing saytlar · Reklama bloker                                │
+│  Tracking script detector — brauzer kengaytmasi                 │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -95,10 +91,10 @@ AUTOMATION   [████████████████░░░░░░
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&icon_color=00c896&text_color=c8e8d8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=080f0c&stroke=00c896&ring=00c896&fire=00ffb3&currStreakLabel=00c896) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Otabek-Muhammadqulov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&icon_color=00c896&text_color=c8e8d8) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Otabek-Muhammadqulov&theme=tokyonight&hide_border=true&background=080f0c&stroke=1a3a2a&ring=00c896&fire=00ffb3&currStreakLabel=00c896) |
 |:---:|:---:|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&text_color=c8e8d8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Otabek-Muhammadqulov&layout=compact&theme=tokyonight&hide_border=true&bg_color=080f0c&title_color=00c896&text_color=c8e8d8)
 
 </div>
 
@@ -110,12 +106,14 @@ AUTOMATION   [████████████████░░░░░░
 
 [![Telegram](https://img.shields.io/badge/TELEGRAM-0d1a14?style=for-the-badge&logo=telegram&logoColor=00c896)](https://t.me/M_U_Otabek)
 
+</div>
+
+<br>
+
 ```
 >_ Securing the digital perimeter, one script at a time. ▌
 ```
 
-</div>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c896&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1a14,00c896&height=100&section=footer" />
 </div>
