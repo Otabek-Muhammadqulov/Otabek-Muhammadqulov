@@ -20,11 +20,20 @@
 ---
 
 ```
-// AGENT PROFILE :: INITIALIZED
-> Yo'nalish  : Kiberxavfsizlik va axborot himoyasi bo'yicha mutaxassis
-> Fokus       : Tarmoq xavfsizligi · Ma'lumot shifrlash · Veb audit · Pentest
-> Holat       : Avtomatlashtirilgan himoya tizimlari ishlab chiqilmoqda
-> Perimetr    : Himoyada. Buzilmagan.
+### 🌐 SYSTEM STATUS: OPERATIONAL
+
+```text
+[+] HOSTNAME: Otabek-Core-Node
+[+] STATUS: SECURE
+[+] PERIMETER: UNBREACHED // PROTECTED
+$ git status --security-perimeter
+> On branch master
+> Your system is secure. No vulnerabilities detected.
+> Anti-phishing & ad-blocking extensions: ACTIVE [100%]
+### ✨ Bu o'zgarish nima beradi?
+* **Vizual Jadval:** Ma'lumotlar oddiy matn emas, balki kiber-yashil (#00FF41) rangdagi mini-nishonlar bilan strukturalangan jadval ichida turadi.
+* **Terminal Simulyatsiyasi:** [+] HOSTNAME va pastdagi $ git status qismlari profilga kirgan odamga huddi real vaqtda ishlayotgan terminal muhitini eslatadi. 
+* **Matrix Vibe:** Matn ichidagi kiber-terminlar va operator belgilari umumiy dizaynni ancha professional ko'rsatadi.
 ```
 
 ---
